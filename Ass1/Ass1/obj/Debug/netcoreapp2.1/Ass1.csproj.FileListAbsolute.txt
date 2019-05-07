@@ -1,0 +1,12 @@
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\bin\Debug\netcoreapp2.1\Ass1.deps.json
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\bin\Debug\netcoreapp2.1\Ass1.runtimeconfig.json
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\bin\Debug\netcoreapp2.1\Ass1.runtimeconfig.dev.json
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\bin\Debug\netcoreapp2.1\Ass1.dll
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\bin\Debug\netcoreapp2.1\Ass1.pdb
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\obj\Debug\netcoreapp2.1\Ass1.csprojAssemblyReference.cache
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\obj\Debug\netcoreapp2.1\Ass1.csproj.CoreCompileInputs.cache
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\obj\Debug\netcoreapp2.1\Ass1.AssemblyInfoInputs.cache
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\obj\Debug\netcoreapp2.1\Ass1.AssemblyInfo.cs
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\obj\Debug\netcoreapp2.1\Ass1.dll
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\obj\Debug\netcoreapp2.1\Ass1.pdb
+C:\Users\KARAM-PC\Desktop\INFDTA01-2\Ass1\Ass1\bin\Debug\netcoreapp2.1\Data\WineData.csv
